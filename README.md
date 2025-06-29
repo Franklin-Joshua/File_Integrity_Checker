@@ -87,7 +87,13 @@ Future Scope
 
 Conclusion
 The File Integrity Checker is a practical project that introduces students and beginners to the concepts of file monitoring, hashing, and basic security. It demonstrates how a simple script can serve an important purpose in securing digital data and building cybersecurity awareness.
+
+
 ![Screenshot 2025-06-29 002214](https://github.com/user-attachments/assets/0b334aa6-a58c-4a10-bed1-37c58e50ac7d)
+
+
 ![Screenshot 2025-06-29 002132](https://github.com/user-attachments/assets/e37e6766-507a-4113-ae28-67eba8037c54)
+
+
 ![Screenshot 2025-06-29 002049](https://github.com/user-attachments/assets/11334add-96cf-491b-8d3c-26c18039b111)
 
